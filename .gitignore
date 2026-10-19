@@ -1,0 +1,7 @@
+**/.env
+**/.env.*
+!**/.env.example
+**/vendor/
+**/.dart_tool/
+**/build/
+**/node_modules/
